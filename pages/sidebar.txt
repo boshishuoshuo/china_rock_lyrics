@@ -1,3 +1,3 @@
-[[ 歌手 / 乐队名 ]]
+[[ singer_band_list : singer_band_list | 歌手 / 乐队名 ]]
 
 [[ 歌曲 ]]
